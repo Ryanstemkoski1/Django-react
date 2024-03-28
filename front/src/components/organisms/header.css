@@ -1,0 +1,18 @@
+.head-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.head-link a {
+  padding: 1rem 2rem ;
+  text-decoration: none;
+}
+.header-auth {
+  padding: 1rem 2rem;
+  border: 1px solid;
+  border-radius: 400px;
+}
+.header-auth a {
+  text-decoration: none;
+  padding: 0 0.5rem;
+}
